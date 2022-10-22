@@ -1,8 +1,8 @@
 import random
 
-head&tale = random.randint(0,1)
+headtale = random.randint(0,1)
 
-if head&tale == 0:
+if headtale == 0:
   print("Heads")
 else:
   print("Tales")
